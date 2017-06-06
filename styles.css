@@ -1,0 +1,38 @@
+.block {
+    background-color: black;
+    opacity:.8;
+    padding:10px;
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius:10px;
+}
+
+.nav-pills {
+font-size: 1.6em;
+background-color: black;
+}
+body {
+    background-color:white;
+    font-family: 'Lobster', cursive;
+    color:white;
+}
+h1{
+    padding:0;
+    margin-top:0px;
+    font-size:6.0em;
+}
+
+.btn-default {
+    background-color: black;
+    border-color:black;
+    color:#337ab7;
+    font-size: 1.6em;
+}
+
+.pageOne {
+    background: url("images/emile-perron-190221.jpg");
+    background-size: cover;
+    height: 800px;
+     
+}
